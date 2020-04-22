@@ -1,0 +1,13 @@
+package com.oppo.finance;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class OppoEurekaServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(OppoEurekaServiceApplication.class, args);
+	}
+
+}
